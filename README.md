@@ -73,6 +73,7 @@ An online food ordering platform with **Google Maps integration**, **Stripe Paym
 
 - **Email**: [jalal.seu.cse@gmail.com](mailto:jalal.seu.cse@gmail.com)
 - **LinkedIn**: [Md. Shajalal](https://www.linkedin.com/in/shah-jalal-10/)
+- **GitHub**: [shah-jalal1](https://github.com/jalal-zaag)
 - **GitHub**: [shah-jalal1](https://github.com/shah-jalal1)
 - **GitLab**: [jalal.seu.cse](https://gitlab.com/jalal.seu.cse)
 - **LeetCode**: [jalal406](https://leetcode.com/u/jalal406/)
