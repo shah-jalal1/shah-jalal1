@@ -1,82 +1,93 @@
-# 👋 Hi, I'm Md. Shajalal!
+# 👋 Hello, I'm Md. Shajalal
 
-🚀 **Software Engineer** 
-🌟 Passionate about building scalable and efficient web applications with modern technologies.
+I'm a passionate **Software Engineer** with expertise in building responsive web applications and experience working with modern frameworks like **React**, **Next.js**, **Angular**, and more. I love solving complex problems and delivering high-performance solutions to meet business needs.
 
-![banner](https://your-image-link.com/banner.png) <!-- Add your personal banner here -->
-
----
-
-## 👨‍💻 About Me
-
-I am a dedicated software engineer with expertise in building robust and user-friendly web applications. With over **2 years of experience** in both frontend and backend development, I specialize in **React.js**, **Next.js**, **Angular**, **Node.js**, and other modern web technologies. I have a strong focus on delivering high-quality, maintainable code and improving performance across all projects I work on.
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shah-jalal-10/)
-- 🌐 [Portfolio](https://www.your-portfolio.com) <!-- Optional if you have a personal website -->
-- 📧 Email: [jalal.seu.cse@gmail.com](mailto:jalal.seu.cse@gmail.com)
+![Banner Image](path_to_your_image) <!-- You can include a professional banner here -->
 
 ---
 
-## 🔧 Technologies & Tools
+## 🌟 **About Me**
 
-- **Frontend**: React.js, Next.js, Angular, Tailwind CSS, Material UI, Bootstrap, Ant Design
-- **Backend**: Node.js, Express.js, REST APIs
-- **Database**: MongoDB, MySQL
-- **Other**: TypeScript, JavaScript (ES6+), Redux, JWT Tokens, Docker, AWS
-- **Tools**: Git, GitHub, Webstorm, VS Code, Netlify, Heroku
-
----
-
-## 🏆 Featured Projects
-
-### 1. [Nagalay](https://www.nagalay.com) 🚗
-- Developed a **Booking System** and integrated **Google Maps** for location services.
-- Implemented **Ride profiles** and **Online Payment System**.
-- **Technologies**: Next.js, Ant Design, Socket.io
-
-![Nagalay Screenshot](https://your-image-link.com/nagalay.png) <!-- Add screenshot -->
-
-### 2. [Oushod Sheba](https://oushodsheba.com) 🏥
-- Built a comprehensive **Medical Services Platform** with e-commerce capabilities.
-- Integrated **Add to Cart**, **Checkout**, and user profiles for seamless transactions.
-- **Technologies**: React.js, Material UI, TypeScript
-
-![Oushod Sheba Screenshot](https://your-image-link.com/oushodsheba.png) <!-- Add screenshot -->
-
-### 3. [RMS - Restaurant Management System](https://www.your-project-link.com) 🍽️
-- Led the development of an **Online Food Ordering Platform** with **Google Maps** integration.
-- Implemented secure online payments using **Stripe** and personalized customer profiles.
-- **Technologies**: Next.js, Ant Design, SaaS
-
-![RMS Screenshot](https://your-image-link.com/rms.png) <!-- Add screenshot -->
+- 🔭 I’m currently working at **Zaag Systems Ltd** as a Software Engineer.
+- 🌱 I’m constantly learning and improving my skills in full-stack development, cloud solutions, and CI/CD pipelines.
+- 👨‍💻 I enjoy developing applications with **React.js**, **Next.js**, and **Node.js**, and I have strong experience in building complex web systems.
+- 🚀 Open to new opportunities in the **Software Engineering** domain.
 
 ---
 
-## 💼 Work Experience
+## 🛠️ **Technologies & Tools**
 
-### **Zaag Systems Ltd** (03/2022 - Present)  
+![Tech Stack Image](path_to_your_tech_stack_image)
+
+- **Frontend**: React.js, Next.js, Angular, Typescript, Tailwind CSS, JavaScript, ES6, REST API, Material UI, Bootstrap, Ant Design, SASS, JSON, Context API, React Router, JWT.
+- **Backend**: Node.js, Express.js, API development, MongoDB, MySQL.
+- **Tools**: Git, Webstorm, VS Code, Netlify, Heroku, AWS, Docker.
+- **Others**: Redux, Firebase, Google Maps API, CI/CD, Agile (Scrum).
+
+---
+
+## 💼 **Professional Experience**
+
+### **Zaag Systems Ltd.** (03/2022 - Present)  
+**Software Engineer**
+
 - Developed and maintained responsive web applications using **React.js**, **Next.js**, and **TypeScript**.
-- Integrated third-party APIs, improved software performance, and maintained codebases using **Git**.
+- Improved the performance and upgraded existing software systems.
+- Integrated third-party APIs and enhanced application functionality.
+- Collaborated with team members using **Git** and participated in team meetings to solve challenges.
 
 ### **Softlab IT** (09/2021 - 03/2022)  
-- Developed web applications using **Angular**, **Node.js**, and **JavaScript**.
-- Worked on API development, integration, and cloud architecture design.
+**Software Engineer**
+
+- Built and maintained web applications using **Angular** and **Node.js**.
+- Worked on API development, cloud environments, and enhancing business productivity.
 
 ---
 
-## 🎓 Education
+## 🚀 **Projects**
 
-**B.Sc. in Computer Science & Engineering**  
-Southeast University (2017 - 2021)
+### [Nagalay](https://www.nagalay.com)
+A **Booking System** with integrated **Google Maps**, ride profiles, and an **Online Payment System**.
+
+- **Tech Stack**: Next.js, Ant Design, Socket.io.
+
+### [Oushod Sheba](https://oushodsheba.com/)
+A comprehensive platform for medical services with features like **Medicine List**, **Add to Cart**, and **Checkout**.
+
+- **Tech Stack**: React.js, Material UI, Typescript.
+
+### [RMS - Restaurant Management System](https://zaag.zenresto.com/login)
+An online food ordering platform with **Google Maps integration**, **Stripe Payment System**, and personalized customer profiles.
+
+- **Tech Stack**: Next.js, Ant Design, SASS.
 
 ---
 
-## 🌟 Let's Connect!
+## 🎓 **Education**
 
-I am actively seeking new opportunities in **Frontend/Full Stack Development**. Feel free to reach out if you’re looking for someone with a passion for web development and a track record of delivering high-quality solutions!
+- **B.Sc. in Computer Science & Engineering**, Southeast University (2017 - 2021)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shah-jalal-10/)
-- 💻 [GitHub](https://github.com/shah-jalal1)
-- 💻 [GitHub](https://github.com/jalal-zaag)
-- 📧 [Email](mailto:jalal.seu.cse@gmail.com)
+---
+
+## 📫 **How to Reach Me**
+
+- **Email**: [jalal.seu.cse@gmail.com](mailto:jalal.seu.cse@gmail.com)
+- **LinkedIn**: [Md. Shajalal](https://www.linkedin.com/in/shah-jalal-10/)
+- **GitHub**: [shah-jalal1](https://github.com/shah-jalal1)
+- **GitHub**: [shah-jalal1](https://github.com/jalal-zaag)
+- **GitLab**: [jalal.seu.cse](https://gitlab.com/jalal.seu.cse)
+- **LeetCode**: [jalal406](https://leetcode.com/u/jalal406/)
+
+---
+
+## 📈 **GitHub Stats**
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shah-jalal1&layout=compact&theme=radical)
+
+---
+
+## 💼 **Let's Work Together**
+
+I'm always open to exciting opportunities in software engineering. Whether you're an HR professional looking for a new hire or a developer interested in collaborating, feel free to reach out!
 
